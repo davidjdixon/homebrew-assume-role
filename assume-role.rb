@@ -1,9 +1,9 @@
 require 'formula'
 
 class AssumeRole < Formula
-  homepage 'https://github.com/travelex/assume-role'
-  url 'https://github.com/travelex/assume-role/archive/v0.1.4.tar.gz'
-  sha256 'a4fb7b9dfc2ec5798b164ee27fbc4a71fb8d83505e14b55532b596567a718e94'
+  homepage 'https://github.com/davidjdixon/assume-role'
+  url 'https://github.com/davidjdixon/assume-role/archive/v0.3.0.tar.gz'
+  sha256 '7c28423e8f0d66fd4a2380b4ccf24070e7e332cb8f780c428eb3104e34d96927'
 
   depends_on "awscli"
   depends_on "jq"
