@@ -2,8 +2,8 @@ require 'formula'
 
 class AssumeRole < Formula
   homepage 'https://github.com/davidjdixon/assume-role'
-  url 'https://github.com/davidjdixon/assume-role/archive/v0.3.0.tar.gz'
-  sha256 '7c28423e8f0d66fd4a2380b4ccf24070e7e332cb8f780c428eb3104e34d96927'
+  url 'https://github.com/davidjdixon/assume-role/archive/v0.3.0a.tar.gz'
+  sha256 '5f04015f9cbcf7efbc94637d7e25d15ec5a4003126a45c5ee532a592a5bcca75'
 
   depends_on "awscli"
   depends_on "jq"
