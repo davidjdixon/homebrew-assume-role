@@ -5,7 +5,6 @@ class AssumeRole < Formula
   sha256 "6167a697d0bcd429525b50f5a7f1956b7b0bdc87c157a2999cdcbb71accb7f7b"
   license "Apache-2.0"
 
-  depends_on "awscli"
   depends_on "jq"
 
   def install
